@@ -1,0 +1,602 @@
+[
+    {
+        "order_id": "1",
+        "weight": 1.5,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 10:10:00"
+    },
+    {
+        "order_id": "2",
+        "weight": 3.0,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 10:15:00"
+    },
+    {
+        "order_id": "3",
+        "weight": 2.7,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 10:20:00"
+    },
+    {
+        "order_id": "4",
+        "weight": 5.1,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 10:25:00"
+    },
+    {
+        "order_id": "5",
+        "weight": 0.9,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 10:30:00"
+    },
+    {
+        "order_id": "6",
+        "weight": 4.2,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 10:35:00"
+    },
+    {
+        "order_id": "7",
+        "weight": 2.3,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 10:40:00"
+    },
+    {
+        "order_id": "8",
+        "weight": 1.8,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 10:45:00"
+    },
+    {
+        "order_id": "9",
+        "weight": 3.6,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 10:50:00"
+    },
+    {
+        "order_id": "10",
+        "weight": 0.5,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 10:55:00"
+    },
+    {
+        "order_id": "11",
+        "weight": 1.9,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 11:00:00"
+    },
+    {
+        "order_id": "12",
+        "weight": 4.5,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 11:05:00"
+    },
+    {
+        "order_id": "13",
+        "weight": 3.8,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 11:10:00"
+    },
+    {
+        "order_id": "14",
+        "weight": 2.2,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 11:15:00"
+    },
+    {
+        "order_id": "15",
+        "weight": 3.3,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 11:20:00"
+    },
+    {
+        "order_id": "16",
+        "weight": 0.8,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 11:25:00"
+    },
+    {
+        "order_id": "17",
+        "weight": 1.1,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 11:30:00"
+    },
+    {
+        "order_id": "18",
+        "weight": 2.6,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 11:35:00"
+    },
+    {
+        "order_id": "19",
+        "weight": 4.0,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 11:40:00"
+    },
+    {
+        "order_id": "20",
+        "weight": 3.1,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 11:45:00"
+    },
+    {
+        "order_id": "21",
+        "weight": 2.4,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 11:50:00"
+    },
+    {
+        "order_id": "22",
+        "weight": 3.5,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 11:55:00"
+    },
+    {
+        "order_id": "23",
+        "weight": 1.4,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 12:00:00"
+    },
+    {
+        "order_id": "24",
+        "weight": 4.7,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 12:05:00"
+    },
+    {
+        "order_id": "25",
+        "weight": 0.7,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 12:10:00"
+    },
+    {
+        "order_id": "26",
+        "weight": 3.2,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 12:15:00"
+    },
+    {
+        "order_id": "27",
+        "weight": 2.0,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 12:20:00"
+    },
+    {
+        "order_id": "28",
+        "weight": 1.7,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 12:25:00"
+    },
+    {
+        "order_id": "29",
+        "weight": 5.5,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 12:30:00"
+    },
+    {
+        "order_id": "30",
+        "weight": 2.8,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 12:35:00"
+    },
+    {
+        "order_id": "31",
+        "weight": 1.2,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 12:40:00"
+    },
+    {
+        "order_id": "32",
+        "weight": 4.3,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 12:45:00"
+    },
+    {
+        "order_id": "33",
+        "weight": 2.1,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 12:50:00"
+    },
+    {
+        "order_id": "34",
+        "weight": 5.0,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 12:55:00"
+    },
+    {
+        "order_id": "35",
+        "weight": 2.9,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 13:00:00"
+    },
+    {
+        "order_id": "36",
+        "weight": 1.6,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 13:05:00"
+    },
+    {
+        "order_id": "37",
+        "weight": 3.4,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 13:10:00"
+    },
+    {
+        "order_id": "38",
+        "weight": 1.9,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 13:15:00"
+    },
+    {
+        "order_id": "39",
+        "weight": 4.4,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 13:20:00"
+    },
+    {
+        "order_id": "40",
+        "weight": 2.7,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 13:25:00"
+    },
+    {
+        "order_id": "41",
+        "weight": 1.3,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 13:30:00"
+    },
+    {
+        "order_id": "42",
+        "weight": 4.8,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 13:35:00"
+    },
+    {
+        "order_id": "43",
+        "weight": 2.4,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 13:40:00"
+    },
+    {
+        "order_id": "44",
+        "weight": 5.3,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 13:45:00"
+    },
+    {
+        "order_id": "45",
+        "weight": 2.5,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 13:50:00"
+    },
+    {
+        "order_id": "46",
+        "weight": 1.7,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 13:55:00"
+    },
+    {
+        "order_id": "47",
+        "weight": 4.1,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 14:00:00"
+    },
+    {
+        "order_id": "48",
+        "weight": 2.0,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 14:05:00"
+    },
+    {
+        "order_id": "49",
+        "weight": 3.6,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 14:10:00"
+    },
+    {
+        "order_id": "50",
+        "weight": 2.2,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 14:15:00"
+    },
+    {
+        "order_id": "51",
+        "weight": 1.9,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 14:20:00"
+    },
+    {
+        "order_id": "52",
+        "weight": 3.8,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 14:25:00"
+    },
+    {
+        "order_id": "53",
+        "weight": 2.3,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 14:30:00"
+    },
+    {
+        "order_id": "54",
+        "weight": 4.9,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 14:35:00"
+    },
+    {
+        "order_id": "55",
+        "weight": 2.1,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 14:40:00"
+    },
+    {
+        "order_id": "56",
+        "weight": 1.5,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 14:45:00"
+    },
+    {
+        "order_id": "57",
+        "weight": 4.6,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 14:50:00"
+    },
+    {
+        "order_id": "58",
+        "weight": 2.9,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 14:55:00"
+    },
+    {
+        "order_id": "59",
+        "weight": 5.4,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 15:00:00"
+    },
+    {
+        "order_id": "60",
+        "weight": 2.6,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 15:05:00"
+    },
+    {
+        "order_id": "61",
+        "weight": 1.0,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 15:10:00"
+    },
+    {
+        "order_id": "62",
+        "weight": 3.9,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 15:15:00"
+    },
+    {
+        "order_id": "63",
+        "weight": 2.8,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 15:20:00"
+    },
+    {
+        "order_id": "64",
+        "weight": 5.2,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 15:25:00"
+    },
+    {
+        "order_id": "65",
+        "weight": 1.6,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 15:30:00"
+    },
+    {
+        "order_id": "66",
+        "weight": 2.5,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 15:35:00"
+    },
+    {
+        "order_id": "67",
+        "weight": 4.2,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 15:40:00"
+    },
+    {
+        "order_id": "68",
+        "weight": 3.2,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 15:45:00"
+    },
+    {
+        "order_id": "69",
+        "weight": 4.0,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 15:50:00"
+    },
+    {
+        "order_id": "70",
+        "weight": 2.3,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 15:55:00"
+    },
+    {
+        "order_id": "71",
+        "weight": 1.8,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 16:00:00"
+    },
+    {
+        "order_id": "72",
+        "weight": 4.3,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 16:05:00"
+    },
+    {
+        "order_id": "73",
+        "weight": 3.3,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 16:10:00"
+    },
+    {
+        "order_id": "74",
+        "weight": 5.7,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 16:15:00"
+    },
+    {
+        "order_id": "75",
+        "weight": 2.4,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 16:20:00"
+    },
+    {
+        "order_id": "76",
+        "weight": 1.9,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 16:25:00"
+    },
+    {
+        "order_id": "77",
+        "weight": 4.1,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 16:30:00"
+    },
+    {
+        "order_id": "78",
+        "weight": 3.0,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 16:35:00"
+    },
+    {
+        "order_id": "79",
+        "weight": 5.6,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 16:40:00"
+    },
+    {
+        "order_id": "80",
+        "weight": 2.0,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 16:45:00"
+    },
+    {
+        "order_id": "81",
+        "weight": 1.2,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 16:50:00"
+    },
+    {
+        "order_id": "82",
+        "weight": 4.4,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 16:55:00"
+    },
+    {
+        "order_id": "83",
+        "weight": 3.1,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 17:00:00"
+    },
+    {
+        "order_id": "84",
+        "weight": 5.8,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 17:05:00"
+    },
+    {
+        "order_id": "85",
+        "weight": 2.1,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 17:10:00"
+    },
+    {
+        "order_id": "86",
+        "weight": 1.6,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 17:15:00"
+    },
+    {
+        "order_id": "87",
+        "weight": 4.5,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 17:20:00"
+    },
+    {
+        "order_id": "88",
+        "weight": 3.9,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 17:25:00"
+    },
+    {
+        "order_id": "89",
+        "weight": 11.2,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 17:30:00"
+    },
+    {
+        "order_id": "90",
+        "weight": 10.0,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 17:35:00"
+    },
+    {
+        "order_id": "91",
+        "weight": 4.1,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 17:40:00"
+    },
+    {
+        "order_id": "92",
+        "weight": 4.2,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 17:45:00"
+    },
+    {
+        "order_id": "93",
+        "weight": 3.9,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 17:50:00"
+    },
+    {
+        "order_id": "94",
+        "weight": 3.9,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 17:55:00"
+    },
+    {
+        "order_id": "95",
+        "weight": 8.4,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 18:00:00"
+    },
+    {
+        "order_id": "96",
+        "weight": 13.3,
+        "delivery_area": "Центральный",
+        "delivery_time": "2024-10-25 18:05:00"
+    },
+    {
+        "order_id": "97",
+        "weight": 1.9,
+        "delivery_area": "Восточный",
+        "delivery_time": "2024-10-25 18:10:00"
+    },
+    {
+        "order_id": "98",
+        "weight": 3.0,
+        "delivery_area": "Южный",
+        "delivery_time": "2024-10-25 18:15:00"
+    },
+    {
+        "order_id": "99",
+        "weight": 4.4,
+        "delivery_area": "Западный",
+        "delivery_time": "2024-10-25 18:20:00"
+    },
+    {
+        "order_id": "100",
+        "weight": 2.9,
+        "delivery_area": "Северный",
+        "delivery_time": "2024-10-25 18:25:00"
+    }
+]

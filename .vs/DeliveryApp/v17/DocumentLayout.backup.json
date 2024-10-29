@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sources\\DeliveryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4295A3-F187-42D5-B3F5-1317E088B48A}|DeliveryApp\\DeliveryApp.csproj|d:\\sources\\deliveryapp\\deliveryapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4295A3-F187-42D5-B3F5-1317E088B48A}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4295A3-F187-42D5-B3F5-1317E088B48A}|DeliveryApp\\DeliveryApp.csproj|D:\\Sources\\DeliveryApp\\deliveryapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4295A3-F187-42D5-B3F5-1317E088B48A}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4295A3-F187-42D5-B3F5-1317E088B48A}|DeliveryApp\\DeliveryApp.csproj|d:\\sources\\deliveryapp\\deliveryapp\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4295A3-F187-42D5-B3F5-1317E088B48A}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logging.cs",
+              "DocumentMoniker": "D:\\Sources\\DeliveryApp\\DeliveryApp\\Logging.cs",
+              "RelativeDocumentMoniker": "DeliveryApp\\Logging.cs",
+              "ToolTip": "D:\\Sources\\DeliveryApp\\DeliveryApp\\Logging.cs",
+              "RelativeToolTip": "DeliveryApp\\Logging.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:29:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Sources\\DeliveryApp\\DeliveryApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DeliveryApp\\Form1.cs",
+              "ToolTip": "D:\\Sources\\DeliveryApp\\DeliveryApp\\Form1.cs*",
+              "RelativeToolTip": "DeliveryApp\\Form1.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAmwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:29:57.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Sources\\DeliveryApp\\DeliveryApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DeliveryApp\\Form1.cs",
+              "ToolTip": "D:\\Sources\\DeliveryApp\\DeliveryApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "DeliveryApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:17:27.023Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
